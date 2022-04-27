@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Noche del Demonio",
+    "imagen": "imagenes/posters/noche.jpg"
+  },
+  {
+    "nombre": "Actividad Paranormal",
+    "imagen": "imagenes/posters/paranormal.jpg"
+  },
+  {
+    "nombre": "V.H.S",
+    "imagen": "imagenes/posters/vhs.jpg"
+  }
+]
