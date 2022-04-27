@@ -10,5 +10,17 @@
   {
     "nombre": "V.H.S",
     "imagen": "imagenes/posters/vhs.jpg"
+  },
+  {
+    "nombre": "Siniestro",
+    "imagen": "imagenes/posters/sinester.jpg"
+  },
+  {
+    "nombre": "V.H.S",
+    "imagen": "imagenes/posters/vhs.jpg"
+  },
+  {
+    "nombre": "Eliminar un amigo",
+    "imagen": "imagenes/posters/unfriended.jpg"
   }
 ]
